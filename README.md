@@ -1,7 +1,7 @@
 # Attendance Registration on AWS EC2
 **Terraform + cloud-init + Nginx + Flask (Gunicorn) + SQLite**
 
-A small, production-style demo that deploys a check-in form and an admin dashboard on a single EC2 instance. Great for showcasing AWS + DevOps skills in labs (e.g., KodeKloud) without ECR/ECS.
+A small, production-style demo that deploys a check-in form and an admin dashboard on a single EC2 instance. Great for showcasing AWS + DevOps skills in labs .
 
 ---
 
